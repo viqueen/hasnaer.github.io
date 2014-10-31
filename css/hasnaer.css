@@ -1,0 +1,28 @@
+/*!
+ * Start Bootstrap - Blog Post HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+body {
+	padding-top: 50px;
+}
+
+footer {
+	margin: 50px 0;
+}
+
+li {
+	padding-right: 15px;
+}
+
+.lefty {
+	float : left;
+}
+
+.righty {
+	float : right;
+}
+
+.bottom-15{
+	padding-bottom : 15px;
+}
